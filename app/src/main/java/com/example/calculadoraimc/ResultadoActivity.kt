@@ -3,7 +3,6 @@ package com.example.calculadoraimc
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.TextView
-import kotlin.reflect.typeOf
 
 class ResultadoActivity : AppCompatActivity() {
 
